@@ -2,7 +2,7 @@
 
 ## Description:
 
-- A few plug-ins for [Google Chrome](https://www.google.com/intl/en/chrome/browser/) / [ChromeOS](http://www.chromium.org/chromium-os).
+- A library containing functions that act as wrappers for [Valve's Steamworks API.](https://partner.steamgames.com/)
 
 ## Bugs / Issues:
 
