@@ -1,1 +1,3 @@
+steam = {}
+
 include("shared.lua")
